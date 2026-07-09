@@ -1,0 +1,6 @@
+Date,KRI_Category,Risk_Metric_Value,Threshold_Amber,Threshold_Red,Risk_Log_Description
+2026-07-01,Cyber Security,45,60,80,No major security issues detected
+2026-07-02,Cyber Security,82,60,80,Critical phishing attack detected
+2026-07-03,Operations,65,50,75,Delay in vendor delivery
+2026-07-04,Compliance,35,50,70,Audit completed successfully
+2026-07-05,Finance,78,60,75,High payment exception rate
