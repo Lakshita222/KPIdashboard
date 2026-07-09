@@ -1,5 +1,5 @@
 # KRI Dashboard
-
+Live Link: https://kpidashboard-zrcwud3qvffysm4wrlsko6.streamlit.app/
 A simple Streamlit dashboard for viewing key risk indicators (KRIs), sentiment, and status trends.
 
 ## Run locally
